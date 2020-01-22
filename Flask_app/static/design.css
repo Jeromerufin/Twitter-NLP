@@ -1,0 +1,77 @@
+body {
+  background-color: #00acee;
+}
+
+.rectangle {
+  background: #FFFFFF;
+  height: 400px;
+  width: 800px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -200px;
+  margin-left: -400px;
+}
+
+.donald img {
+  position: fixed;
+  top: 53%;
+  left: 52%;
+  margin-top: -200px;
+  margin-left: -400px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.Name {
+  position: fixed;
+  top: 51%;
+  left: 60.5%;
+  margin-top: -200px;
+  margin-left: -400px;
+  height: 100px;
+}
+
+.username {
+  position: fixed;
+  top: 60.5%;
+  left: 60.4%;
+  margin-top: -200px;
+  margin-left: -400px;
+  height: 100px;
+  color: grey;
+  font-weight: normal;
+}
+
+.checkmark img {
+  position: fixed;
+  top: 55%;
+  left: 77.1%;
+  margin-top: -200px;
+  margin-left: -400px;
+  height: 25px;
+}
+
+#btn {
+  background-color: #FFFFFF; 
+  color: #00acee;
+  padding: 9px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: fixed;
+  top: 56.9%;
+  left: 93%;
+  margin-top: -200px;
+  margin-left: -400px;
+  height: 37px;
+  border-radius: 18px;
+  border-color: #00acee;
+}
+
+#response {
+  z-index: -1;
+  position:fixed
+
+}
